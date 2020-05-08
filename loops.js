@@ -10,4 +10,3 @@ function forLoop(array) {
   console.log(array);
   return array;
 }
-

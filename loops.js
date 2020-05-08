@@ -9,4 +9,4 @@ function forLoop(array) {
   }
 }
 
-forLoop
+forLoop()
